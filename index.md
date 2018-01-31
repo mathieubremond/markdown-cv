@@ -42,14 +42,38 @@ Développée pour mon compte et commercialisée.
 `Contrat de professionnalisation` `Novembre 2015 - Octobre 2016`  
 Maintenance et ré-écriture d’une application web présentant des données sensibles aux clients de l’entreprise.  
 Gestion de scripts Perl sur des serveurs Debian et amélioration d’un ETL.  
-> Angular.js ; Java ; Debian ; Perl ; Dojo
+> Angular.js ; Java ; PHP 5.6 ; Debian ; Perl ; Dojo
 
 ### Développeur Java EE, <a href="https://www.defense.gouv.fr/terre">Armée de Terre française</a> 
 `Stage` `Juillet 2015 - Octobre 2015`
 Participation au développement d'une application web interarmée.
 > Java ; Java EE ; Hibernate
 
+### Développeur web, <a href="http://mabe37.fr/">MABE</a> 
+`Stage` `Mars 2015 - Juin 2015`
+Création du site vitrine d'un bureau d'études en Bâtiment.
+> HTML ; CSS ; Javascript
 
+## École
+
+### Master Of Science à SUPINFO International University
+`2016 - 2018`
+De la gestion d’un cluster de machines virtuelles au développement d’une application métier
+complexe, en passant par du droit IT et du management de projets, 5 années d’études en informatique m’ont permis d’acquérir un panel de compétences IT large et varié.  
+
+## Projets annexes
+
+### Chef de projet, <a href="http://tictac-coaching.fr/home/">TIC&TAC Coaching</a> 
+`2015 - 2016`
+Plateforme Web (Java EE) permettant à des PME/TPE d’accéder à des formations dispensées par des étudiants IT.
+> Java EE ; Wordpress ; Communication ; Gestion de la presse
+
+## Compétences
+
+* Javascript (ES6), Node.js, Meteor, Angular.js, React
+* Java (SE, EE), Hibernate, JSF, EJB
+* Linux (Debian), Docker (swarm), Amazon Web Services (aws)
+* Anglais
 
 <!-- ### Footer
 
