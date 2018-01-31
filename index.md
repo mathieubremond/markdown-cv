@@ -70,10 +70,20 @@ Plateforme Web (Java EE) permettant à des PME/TPE d’accéder à des format
 
 ## Compétences
 
-* Javascript (ES6), Node.js, Meteor, Angular.js, React
-* Java (SE, EE), Hibernate, JSF, EJB
-* Linux (Debian), Docker (swarm), Amazon Web Services (aws)
-* Anglais
+Catégorie | Compétences 
+------------ | ------------- 
+Frameworks | Node.js, Meteor, Angular.js, React, Hibernate, JSF, EJB
+Langages | Javascript (ES6), Java (SE, EE), MongoDB Query Language, PHP 5, SQL, C++
+Base de données |  MongoDB, MySQL
+OS | Linux (Ubuntu, Debian), Windows Server 2012
+Méthodes | Agile, Scrum
+Versionning | Git, SVN
+Autres | Amazon Web Services (aws), Docker (swarm)
+
+## Langues
+
+* Français  
+* Anglais  
 
 <!-- ### Footer
 
