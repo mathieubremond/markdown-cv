@@ -56,10 +56,13 @@ Création du site vitrine d'un bureau d'études en Bâtiment.
 
 ## École
 
-### Master Of Science à SUPINFO International University
+### Master Of Science (Expert en Informatique) à SUPINFO International University
 `2016 - 2018`  
 De la gestion d’un cluster de machines virtuelles au développement d’une application métier
 complexe, en passant par du droit IT et du management de projets, 5 années d’études en informatique m’ont permis d’acquérir un panel de compétences IT large et varié.  
+
+### Bachelor Of Science à SUPINFO International University
+`2014 - 2016`  
 
 ## Projets annexes
 
